@@ -54,6 +54,3 @@ This is a Connect 4 game implemented in Python. The game can be played in two mo
 - Players take turns to drop their tokens into one of the columns.
 - The first player to connect four of their tokens vertically, horizontally, or diagonally wins.
 - If the board fills up without any player connecting four tokens, the game ends in a tie.
-
-## Example
-
