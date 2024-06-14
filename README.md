@@ -37,7 +37,7 @@ This is a Connect 4 game implemented in Python. The game can be played in two mo
 3. Run the Streamlit app:
 
     ```bash
-    streamlit run streamlit_app.py
+    streamlit run streamlit.py
     ```
 
     This will start a local server and provide you with a URL (usually `http://localhost:8501`) that you can open in your web browser to interact with the app.
