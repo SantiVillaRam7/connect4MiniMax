@@ -49,7 +49,8 @@ You can also access the deployed Streamlit app directly on the web without any i
 [Connect 4 Minimax Game on Streamlit](https://apppy-hjdcxnjsqhgwtwuempmvmv.streamlit.app/)
 
 You should select the game mode you want to play first in the left part of the screen.
-If you have finished the game or want to start a new one, click the "reset game" button.
+
+If you have finished the game or want to start a new game, click the "Restart Game" button and make sure the game mode is the one you wannt in the left of the screen.
 
 ## Game Rules
 
